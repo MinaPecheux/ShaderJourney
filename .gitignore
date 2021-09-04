@@ -7,6 +7,7 @@
 !*.shader.meta
 !*.mat.meta
 !README.md
+!imgs/*
 
 /[Ll]ibrary/
 /[Tt]emp/

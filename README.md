@@ -12,3 +12,4 @@ Here is the list of all the articles:
 
 - [Episode #0: Introduction](https://mina-pecheux.medium.com/shader-journey-0-introduction-78367f7b7252)
 - [Episode #1: Basic Toons](https://mina-pecheux.medium.com/shader-journey-1-basic-toons-3dfc68b4139c)
+- [Episode #2: Holograms](https://mina-pecheux.medium.com/shader-journey-2-holograms-68d4c4a7eb12)

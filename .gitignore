@@ -6,6 +6,10 @@
 !*.mat
 !*.shader.meta
 !*.mat.meta
+!*.png
+!*.png.meta
+!*.jpeg
+!*.jpeg.meta
 !README.md
 !imgs/*
 
